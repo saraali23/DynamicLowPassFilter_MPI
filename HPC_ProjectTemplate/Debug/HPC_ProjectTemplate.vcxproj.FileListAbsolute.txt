@@ -1,0 +1,2 @@
+D:\Work -FCIS\2020_2021\HPC2020\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxprojAssemblyReference.cache
+D:\Work -FCIS\2020_2021\AI_Parallel_2020_2021\Project\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.vcxprojAssemblyReference.cache
